@@ -10,6 +10,9 @@
 
 # Let's see how much can we do without credits
 
+
+![alt text](image.png)
+
 ![alt text](image-3.png)
 
 # Compute
@@ -18,7 +21,4 @@
 
 ---
 
-![alt text](image.png)
-
-# 
 
