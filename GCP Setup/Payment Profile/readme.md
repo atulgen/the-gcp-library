@@ -47,3 +47,11 @@
 > Your payment method requires you to make a one-time, ₹1,000.00 prepayment. Once this prepayment is credited to your account, you'll also receive your free trial credits and your free trial will become active. This prepayment is refundable if you choose to close your Cloud billing account. Learn more about payment methods
 
 This seems a bit sneaky
+
+
+## Resource:
+
+- [How to Create GCP Free Tier Account-Hindi/Urdu | Lec-06 | Google cloud platform Free trial account](https://youtu.be/VXi3Q8KMlyU?list=PLBGx66SQNZ8YWRUw6yicKtD4AIpUl_YiJ)
+
+
+
