@@ -50,6 +50,8 @@
   - Ensure successful operation of a cloud solution
   - Configure access and security
 
+- GCP - ACE
+
 
 
 ### Resource hierarchy in Google Cloud
@@ -129,4 +131,6 @@ Each project in GCP has a default VPC (virtual private cloud) configured. The re
 - Google Cloud Certification Path-Hindi/Urdu | Lec-01 | Google Cloud Platform tutorial for beginners
   - https://youtu.be/F8gAq_wT6F0?list=PLBGx66SQNZ8YWRUw6yicKtD4AIpUl_YiJ
   - A good GCP lectures in hindi
+
+- [Google Cloud Associate Cloud Engineer Course \[2025\] - Pass the Exam!](https://youtu.be/OlAmyf8_4O4)
 
